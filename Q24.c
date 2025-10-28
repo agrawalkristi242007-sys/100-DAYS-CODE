@@ -7,7 +7,7 @@ Above at ?12/unit*/
 
 int main()
  {
-    printf("Name-ANKUSH GULATI\nSAP ID-590020801\ncourse-BSC-CS\nBATCH-B1\n");
+    printf("Name-KRISTI AGRAWAL\nSAP ID-590025883\ncourse-BSC-CS\nBATCH-B1\n");
 	printf("\n--------------------------------\n");
     int units;
     int bill = 0;
@@ -35,3 +35,4 @@ int main()
     getch();
     return 0;
 }
+
