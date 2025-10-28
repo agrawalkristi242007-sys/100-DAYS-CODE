@@ -4,7 +4,7 @@ Find the digit that occurs the most times in an integer number.*/
 
 int main() 
 {
-      printf("Name-ANKUSH GULATI\nSAP ID-590020801\ncourse-BSC-CS\nBATCH-B1\n");
+      printf("Name-KRISTI AGRAWAL\nSAP ID-590025883\ncourse-BSC-CS\nBATCH-B1\n");
 	printf("\n--------------------------------\n");
     long long n;
     int count[10] = {0}; 
@@ -40,4 +40,5 @@ int main()
      getch();
     return 0;
 }
+
 
