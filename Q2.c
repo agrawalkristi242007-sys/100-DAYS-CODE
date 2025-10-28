@@ -3,7 +3,7 @@ Write a program to input two numbers and display their sum, difference, product,
 #include <stdio.h>
 int main() 
 {
-    printf("Name-ANKUSH GULATI\nSAP ID-590020801\ncourse-BSC-CS\nBATCH-B1\n");
+    printf("Name-KRISTI AGRAWAL\nSAP ID-590025883\ncourse-BSC-CS\nBATCH-B1\n");
 	printf("\n--------------------------------\n");
     int a, b;
     
@@ -23,3 +23,4 @@ int main()
 
     return 0;
 }
+
